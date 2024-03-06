@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ravina Chandrakant Mukadam
-- 👀 I’m interested in Product Management, Project Management and Program Management
-- 🌱 I’m currently learning Engineering Management
-- 💞️ I’m looking to collaborate with new Innovation, Business Strategy, Engineering & Entrepreneurial mindset organizations.
+- 👀 I’m interested in Product and Project Management
+- 🌱 Learning Vendor Risk Management, Data Management, Project Management
+- 💞️ I’m looking to collaborate with Innovation, Business Strategy, Engineering & Entrepreneurial mindset organizations.
 - 📫 How to reach me- rmukadam@asu.edu
 
 <!---
